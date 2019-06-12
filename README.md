@@ -24,3 +24,11 @@ You are to build a web component based image gallery.
 See the video below to see the interaction design.
 
 [![Specification Video](http://img.youtube.com/vi/tYxp63YxDEE/0.jpg)](http://www.youtube.com/watch?v=tYxp63YxDEE)
+
+## Guidance
+
+Please use the following websites for guidance:
+
+* https://open-wc.org/
+* https://lit-element.polymer-project.org/
+* https://lit-html.polymer-project.org/
