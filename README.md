@@ -1,7 +1,6 @@
 # Web Components Exercise
 
-This simple project should introduce you to some of the ways of working on the team.
-
+This simple project should introduce you to some of the ways we use front end technologies.
 ## Instructions
   1. Please fork this repository and work on your fork.
   2. Commit changes frequently so that we can review your progression with you later.
