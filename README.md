@@ -8,7 +8,7 @@ This simple project should introduce you to some of the ways we use front end te
   4. Put your source code in the `src` folder.
   5. Put your tests in the `test` folder.
   6. Place a demo of your working web component in the `demo` folder.
-  7. You may use whatever testing method / tool chain you are mose familiar with.
+  7. You may use whatever testing method / tool chain you are most familiar with.
   8. We don't expect 100% code coverage, we expect well tested code.
   9. The specification is below.
   
