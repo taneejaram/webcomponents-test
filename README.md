@@ -1,15 +1,20 @@
 # Web Components Exercise
 
 This simple project should introduce you to some of the ways we use front end technologies.
+
 ## Instructions
   1. Please fork this repository and work on your fork.
+     _https://help.github.com/en/articles/fork-a-repo_
   2. Commit changes frequently so that we can review your progression with you later.
+     _https://crealytics.com/blog/5-reasons-keeping-git-commits-small/_
   3. The assets you need are in the assets folder.
   4. Put your source code in the `src` folder.
   5. Put your tests in the `test` folder.
   6. Place a demo of your working web component in the `demo` folder.
   7. You may use whatever testing method / tool chain you are most familiar with.
+     _We use the open-wc standards linked below._
   8. We don't expect 100% code coverage, we expect well tested code.
+     _https://medium.com/@nicklee1/why-test-code-coverage-targets-are-a-bad-idea-1b9b8ef711ef_
   9. The specification is below.
   
 ## Specification
