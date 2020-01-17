@@ -1,0 +1,25 @@
+{
+  "name": "webcomponents-test",
+  "version": "1.0.0",
+  "description": "This simple project should introduce you to some of the ways we use front end technologies.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taneejaram/webcomponents-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taneejaram/webcomponents-test/issues"
+  },
+  "homepage": "https://github.com/taneejaram/webcomponents-test#readme",
+  "devDependencies": {
+    "jasmine-node": "^3.0.0"
+  }
+}
